@@ -42,3 +42,5 @@ disp(['FPS = ' num2str(1/mean(elapsedTime))])
 clear camera
 
 close all
+
+% 101.415 FPS
